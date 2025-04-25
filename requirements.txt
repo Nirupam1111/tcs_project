@@ -1,4 +1,4 @@
 shap
-streamlit
+streamlit==1.42.2
 pandas
 scikit-learn==1.2.2
